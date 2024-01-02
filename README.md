@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![](https://leetcard.jacoblin.cool/scooterh?ext=heatmap&hide=ranking)
 
