@@ -19,10 +19,10 @@ My name is Scott and I'm a Full Stack Software Developer between Calgary AB and 
 
 🔨 Currently I'm working on a Next.js web app that allows users to run several AI prompts across multiple files (private). 
 
-✔️ I've created a React web app that allows users to log their indoor rock climbs. This was my first time using React, and I learned a lot in the process. You can checkout the CrimpDaddy repo or the latest deployment [here](https://crimpdaddy-db2af.web.app/)
+✔️ I've created a React web app that allows users to log their indoor rock climbs. This was my first time using React, and I learned a lot in the process. You can checkout the [repo](https://github.com/scooterh4/crimpdaddy) or the [latest deployment.](https://crimpdaddy-db2af.web.app/)
 
-💻 When I'm not contributing to a project, I'm usually doing Leetcode problems. Checkout my [Leetcode profile](https://leetcode.com/scooterh/)
+💻 When I'm not contributing to a project, I'm usually doing Leetcode problems. Checkout my [Leetcode profile.](https://leetcode.com/scooterh/)
 
-🏫 During the Object-Oriented Software Development program I took about 2 years ago, I contributed to several group projects. They can be seen either [here](https://github.com/JackyLuong/Travel-Experts-Workshop-5) or [here](https://github.com/MaratNikitin/CSharpDesktopWorkshop4). 
+🏫 During the Object-Oriented Software Development program I took about 2 years ago, I contributed to several group projects. They can be seen either [here](https://github.com/JackyLuong/Travel-Experts-Workshop-5) or [here.](https://github.com/MaratNikitin/CSharpDesktopWorkshop4). 
 
-🔰 One of the first projects I did was for a Udacity Nanodegree. I created an interactive command line application in Python. Check it out [here](https://github.com/scooterh4/pdsnd_github)
+🔰 One of the first projects I did was for a Udacity Nanodegree. I created an interactive command line application in Python. Check it out [here.](https://github.com/scooterh4/pdsnd_github)
