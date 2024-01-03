@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hello 👋</h1>
 
-My name is Scott and I'm a Full Stack Software Developer between Calgary AB and Squamish BC. Outside of programming, I love rock climbing 🧗‍♂️, sking ⛷️, the Calgary Flames 🔥, and science fiction 📖.
+My name is Scott and I'm a Full Stack Software Developer between Calgary, AB and Squamish, BC. Outside of programming, I love rock climbing 🧗‍♂️, sking ⛷️, the Calgary Flames 🔥, and science fiction 📖.
 
 🔨 Currently I'm working on a Next.js web app that allows users to run several AI prompts across multiple files. 
 
