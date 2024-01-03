@@ -1,7 +1,5 @@
-
-![](https://leetcard.jacoblin.cool/scooterh?ext=heatmap&hide=ranking)
-
 <!--
+![](https://leetcard.jacoblin.cool/scooterh?ext=heatmap&hide=ranking)
 **scooterh4/scooterh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hello 👋</h1>
+
+My name is Scott and I'm a Full Stack Software Developer between Calgary AB and Squamish BC. Outside of programming, I'm a rock climber 🧗‍♂️, skier ⛷️, Calgary Flames fan 🔥 and science fiction reader 📖.
+
+🔨 Currently I'm working on an app that allows users to run several AI prompts across multiple files (private). 
+
+✔️ I've created a React app that allows users to log their indoor rock climbs. This was my first time using React, and I learned a lot in the process. You can checkout the CrimpDaddy repo or the latest deployment [here](https://crimpdaddy-db2af.web.app/)
+
+💻 When I'm not contributing to a project, I'm usually doing Leetcode problems. Checkout my [Leetcode profile](https://leetcode.com/scooterh/)
+
+🏫 During the Object-Oriented Software Development program I took about 2 years ago, I contributed to several group projects. They can be seen either [here](https://github.com/JackyLuong/Travel-Experts-Workshop-5) or [here](https://github.com/MaratNikitin/CSharpDesktopWorkshop4). 
+
+🔰 One of the first projects I did was for a Udacity Nanodegree. I created an interactive command line application in Python. Check it out [here](https://github.com/scooterh4/pdsnd_github)
