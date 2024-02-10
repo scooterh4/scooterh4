@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Scott and I'm a Full Stack Software Developer between Calgary, AB and Squamish, BC. Outside of programming, I love rock climbing 🧗‍♂️, sking ⛷️, the Calgary Flames 🔥, and science fiction 📖.
 
-🔨 Currently I'm working on a Next.js web app that allows users to run several AI prompts across multiple files. 
+🔨 Currently I'm working on a sudoku web app made with React called [webdoku.](https://github.com/scooterh4/webdoku)
 
 ✔️ I've created a React web app that allows users to log their indoor rock climbs. This was my first time using React, and I learned a lot in the process. You can checkout the [repo](https://github.com/scooterh4/crimpdaddy) or the [latest deployment.](https://crimpdaddy-db2af.web.app/)
 
