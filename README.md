@@ -24,3 +24,5 @@ My name is Scott and I'm a Full Stack Software Developer between Calgary, AB and
 🏫 Two years ago, I took an Object-Oriented Software Development program in Calgary, AB. I contributed to several group projects during this time. They can be seen either [here](https://github.com/JackyLuong/Travel-Experts-Workshop-5) or [here.](https://github.com/MaratNikitin/CSharpDesktopWorkshop4). 
 
 🔰 One of the first projects I did was for a Udacity Nanodegree. I created an interactive command line application in Python. Check it out [here.](https://github.com/scooterh4/pdsnd_github)
+
+💻 When I'm not contributing to a project, I'm usually doing Leetcode problems. Checkout my [Leetcode profile.](https://leetcode.com/scooterh/)
