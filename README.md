@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 My name is Scott and I'm a Full Stack Software Developer in Squamish, BC. Outside of programming, I love rock climbing 🧗‍♂️, sking ⛷️, the Calgary Flames 🔥, and science fiction 📖.
 
-🔨 Currently making a web app to track my workouts and see my progress [(see here).](https://github.com/scooterh4/gain-train/)
-
-🧩 I made a sudoku web app with React called [webdoku.](https://github.com/scooterh4/webdoku). Checkout the [deployment.](https://master.d3cy14eqs3xow1.amplifyapp.com/)
+🔨 Currently making a web app to help teachers with report cards.
 
 🧗‍♂️ I created a React web app that allows users to log their indoor rock climbs. This was my first time using React, and I learned a lot in the process. You can checkout the [repo](https://github.com/scooterh4/crimpdaddy) or the [latest deployment.](https://crimpdaddy-db2af.web.app/)
+
+🧩 I made a sudoku web app with React called [webdoku.](https://github.com/scooterh4/webdoku). Checkout the [deployment.](https://master.d3cy14eqs3xow1.amplifyapp.com/)
 
 🏫 Two years ago, I took an Object-Oriented Software Development program in Calgary, AB. I contributed to several group projects during this time. They can be seen either [here](https://github.com/JackyLuong/Travel-Experts-Workshop-5) or [here.](https://github.com/MaratNikitin/CSharpDesktopWorkshop4). 
 
